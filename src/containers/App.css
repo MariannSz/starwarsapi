@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'STAR WARS FONT';
+font-style: normal;
+font-weight: normal;
+src: local('STAR WARS FONT'), url('Starjedi.ttf') format('truetype');
+}
+
+h1, h3 {
+	font-family: 'STAR WARS FONT';
+	font-weight: 200;
+	color: #FFD700;
+}
